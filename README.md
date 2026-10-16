@@ -4,6 +4,11 @@ A Python-based web application built with **Streamlit** to parse, evaluate, and 
 
 ---
 
+### 📷 App Preview
+![App Preview](screenshot1.png)
+
+---
+
 ### 🚀 Features
 * **PDF Resume Parsing:** Extracts text and information from candidate resumes.
 * **Candidate Evaluation:** Analyzes strengths and matches candidate skills with job requirements.
