@@ -23,9 +23,8 @@ A Python-based web application built with **Streamlit** to parse, evaluate, and 
    * افتح مشروعك في فيجوال ستوديو كود وافتح الـ Terminal.
 
 2. **Add your API Key:**
-   * قم بإضافة المفتاح الخاص بك في المكان المخصص داخل الكود (موضح في ملف `how_run.txt`).
-
-3. **Run the app:**
+   * Get your Google API Key (Gemini API Key) from [Google AI Studio](https://aistudio.google.com/).
+   * Create a configuration file or paste your API key securely into the designated variable inside `app_web.py`.
    اكتب هذا الأمر في التيرمنال لتشغيل التطبيق:
    ```bash
    streamlit run app_web.py
