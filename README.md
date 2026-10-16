@@ -6,6 +6,7 @@ A Python-based web application built with **Streamlit** to parse, evaluate, and 
 
 ### 📷 App Preview
 ![App Preview](1.png)
+![App Preview](2.png)
 
 ---
 
